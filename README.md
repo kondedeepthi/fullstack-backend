@@ -38,7 +38,7 @@ Allow the users to search a movie by name or description
 
 - ### Movie Details
 
-When a user selects a movie (from search results or discover page), he gets to see the full details of that movie, including: detailled description, total reviews, average rating, gender etc.
+When a user selects a movie (from search results or discover page), he gets to see the full details of that movie, including: detailled description, total reviews, average rating, gender and list of reviews.
 
 **Functionality**:
 
@@ -58,4 +58,9 @@ The following technologies / framework to be used for this challenge:
  - **Backend**: Java Springboot OR NestJS (https://docs.nestjs.com/)
  - **Frontend**: ReactJS with your choice of any UI library (AntDesign, Material UI, Tailwind..)
  - **GraphQL**: Nice to have, but not mandatory, a REST API will be enough.
+
+### Deliverables
+
+- Github repo for the frontend and backend (one or two repos, your choice)
+- README file describing briefly your tehc strategy ( few lines only, not an essay)
 
