@@ -48,14 +48,15 @@ When a user selects a movie (from search results or discover page), he gets to s
 
 ## Technical Requirements
 
-- User Interface to be suggested by the candidate.
+- User Interface to be suggested by the candidate, however candidates will not be judged on the look and feel of the app, as long as it's usable.
 - DO NOT CALL the Movies API directly from Frontend.
+- Nice to have: deployed (Heroku, Netlify,....).
 
 ### Tech Stack
 
 The following technologies / framework to be used for this challenge:
 
- - **Backend**: Java Springboot OR NestJS (https://docs.nestjs.com/)
+ - **Backend**: Java Springboot OR NodeJS (a plus if done in NestJS https://docs.nestjs.com/).
  - **Frontend**: ReactJS with your choice of any UI library (AntDesign, Material UI, Tailwind..)
  - **GraphQL**: Nice to have, but not mandatory, a REST API will be enough.
 
